@@ -4,7 +4,7 @@ body{
 
 .wrap_image_bg{
     height: 100vh;
-    background-image: url(../images/image_bg.jpg);
+    background-image: url(../images/image_bg_compress.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.9;
